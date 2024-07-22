@@ -1,0 +1,10 @@
+name: Micra_Seventeen
+version: '${version}'
+main: plugin.micra_seventeen.Main
+api-version: '1.20'
+commands:
+  setLevel:
+    description: "マイクラ内でのレベル設定"
+
+  allSetLevel:
+    description: "コンソールコマンドレベル設定"
